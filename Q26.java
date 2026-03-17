@@ -1,6 +1,6 @@
 public class Q26 {
     public static void main(String[] args) {
-        int[] arr = {4,1,2,1,2};
+        int[] arr = {4,1,2,1,2,4,6,5,5};
         int n = arr.length;
 
         System.out.println(onlyOneOccurence(arr, n));
